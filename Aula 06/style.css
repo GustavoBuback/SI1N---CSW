@@ -1,0 +1,43 @@
+body{
+
+    background-color: white;
+}
+
+@keyframes trocaCoresArcoIris {
+
+    50% { color: rgb(255, 0, 200); }
+    100% { color: rgb(0, 0, 0); }
+
+
+  }
+  
+  h1 {
+    
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+  }
+  
+
+  li {
+    
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+  }
+
+  dl {
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+}
+
+ dt {
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+}
+
+th {
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+}
+
+tr {
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+}
+
+table {
+    animation: trocaCoresArcoIris 2s infinite; /* Animação rápida, dura 1 segundo e se repete infinitamente */
+}
