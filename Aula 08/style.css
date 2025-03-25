@@ -1,0 +1,25 @@
+
+
+@keyframes trocaCores {
+    30% { background-color: rgb(0, 238, 255); }
+    60% { background-color: rgb(0, 255, 157); }
+    100% { background-color: rgb(0, 238, 255); }
+
+}
+
+table {
+    animation: trocaCores 6s infinite;
+}
+
+
+
+h1 {
+
+    animation: trocaCores 6s infinite;
+}
+
+li
+{
+
+    animation: trocaCores 6s infinite;
+}
