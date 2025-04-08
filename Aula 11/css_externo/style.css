@@ -1,0 +1,67 @@
+body {
+
+    background-color: darkgrey;
+
+
+
+}
+
+h1 {
+
+    color: aqua;
+    text-align: center;
+
+
+}
+
+h2 {
+
+    color: brown;
+    text-decoration: overline;
+    font-size: large;
+
+
+}
+
+h3 {
+
+    color: blanchedalmond;
+    font-size: large;
+
+}
+
+p {
+
+    color: pink;
+    font-size: large;
+
+}
+
+
+.cap4_h2 {
+
+
+    color: black;
+    background-color: white;
+    font-size: large;
+
+
+}
+
+.cap4_h3 {
+
+    color: red;
+    background-color: black;
+    font-size: large;
+    
+}
+
+.cap4_p {
+
+    color: aquamarine;
+    font-size: large;
+    
+}
+
+
+
